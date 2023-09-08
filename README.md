@@ -9,9 +9,13 @@ The objective of this study is to analyze the flight booking dataset obtained fr
 Our study aims to answer the following research questions:
 
 a) Does the price vary with Airlines?
+
 b) How is the price affected when tickets are bought just 1 or 2 days before departure?
+
 c) Does the ticket price change based on the departure time and arrival time?
+
 d) How does the price change with variations in the source and destination?
+
 e) How does the ticket price vary between Economy and Business class?
 
 ## Data Collection and Methodology
