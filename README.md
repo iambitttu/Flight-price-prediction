@@ -1,5 +1,7 @@
 # Flight-price-prediction
 
+https://flight-price-prediction-wkgf4euydhbmpw5gjnrpjd.streamlit.app/
+
 ## Introduction
 
 The objective of this study is to analyze the flight booking dataset obtained from the "Ease My Trip" website. We aim to conduct various statistical hypothesis tests and utilize the 'Linear Regression' statistical algorithm to gain meaningful insights from the data. "Ease My Trip" is an online platform for booking flight tickets, making it a valuable source for understanding passenger behavior and pricing dynamics.
