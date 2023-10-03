@@ -2,7 +2,7 @@
 
 https://flight-price-prediction-wkgf4euydhbmpw5gjnrpjd.streamlit.app/
 
-https://creditcardprediction.onrender.com
+https://flightpriceprediction-6vr5.onrender.com/
 
 ## Introduction
 
